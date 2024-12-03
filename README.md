@@ -16,3 +16,7 @@ Jamie Holland
 
 - [Geodatabases and Data Models](https://github.com/hollanja/hollanja-gis-project-portfolio-geo441/blob/main/map-coordinate-basics/geodatabases-and-datamodels.ipynb)
 - [Understanding map coordinates](https://github.com/hollanja/hollanja-gis-project-portfolio-geo441/blob/main/map-coordinate-basics/understanding-coordinates.ipynb)
+
+## Spatial Analysis
+
+- [Working with Census Data](https://github.com/hollanja/hollanja-gis-project-portfolio-geo441/blob/main/spatial-analysis/Jamie_Holland_week_12_assignment.ipynb)
